@@ -1,4 +1,4 @@
-# Hi there, I'm Keegan Carey! 👋
+# Hi I'm Keegan! 👋
 
 I am currently pursuing a B.S. in Computer Science & Computer Engineering at Northeastern University. As an enthusiastic builder and continuous learner, I am passionate about taking ambitious ideas from concept to deployable products.
 
