@@ -1,6 +1,7 @@
 # Hi I'm Keegan! 👋
 
-I am currently pursuing a B.S. in Computer Science & Computer Engineering at Northeastern University. As an enthusiastic builder and continuous learner, I am passionate about taking ambitious ideas from concept to deployable products.
+I am currently pursuing a B.S. in Computer Science at Northeastern University. 
+I am passionate about taking ambitious ideas from concept to deployable products.
 
 * **HuggingFace:** [https://huggingface.co/KeeganC](https://huggingface.co/KeeganC)
   
@@ -33,9 +34,10 @@ I am currently pursuing a B.S. in Computer Science & Computer Engineering at Nor
 
 ---
 
-### 🛠️ Featured Projects
+### 🛠️ My Favorite Repos
 
 * **Real Time Conversational AI Pipeline (Python):** Engineered an end-to-end voice pipeline using up to 5 distinct AI models to converse with a 3D game avatar. Achieved 1.2s average response times via multithreading for STT and LLM token generation. Fully controllable via a custom Discord bot.
+
 * **ASCII Voxel Game Renderer (Java):** Built a custom 3D Voxel game renderer without external libraries that renders frames using ASCII characters in the console. Optimized performance using back face culling and LOD techniques.
 
 ---
