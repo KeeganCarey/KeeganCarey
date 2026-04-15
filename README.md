@@ -1,47 +1,19 @@
-# Hi I'm Keegan! 👋
+# Hey, I'm Keegan 👋
 
-I am currently pursuing a B.S. in Computer Science at Northeastern University. 
-I am passionate about taking ambitious ideas from concept to deployable products.
+Computer Science & Computer Engineering student at Northeastern University. 
+I build things with LLMs, focusing on making pipelines that run well on consumer hardware.
 
-* **HuggingFace:** [https://huggingface.co/KeeganC](https://huggingface.co/KeeganC)
-  
-### 🚀 About Me
-* **Self-Taught AI Enthusiast:** I am continuously learning new tools and researching state-of-the-art open-source AI models to stay at the cutting edge.
-* **Collaborative Problem Solver:** I excel in small, communicative teams where I can exchange feedback and improve designs through discussion. 
-* **Creative Maker:** Outside of coding, I enjoy creating DIY Mini Arcade machines using 3D printing and custom PCBs, as well as editing videos to tell engaging stories. 
-* **Out-of-the-Box Thinker:** I do my best to approach unique problems from unconventional angles to turn concepts into tangible solutions.
+## What I'm Into
 
----
+I spend most of my time working at the intersection of **LLM fine-tuning**, **game AI**, and **real-time systems**. Lately I've been deep in on-device inference, quantization, and figuring out how to make small models punch above their weight. I also do a lot of work with conversational AI and voice pipelines.
 
-### 💻 Tech Stack
-* **Languages:** Python, Java, JavaScript, C#, SQL
-* **AI & Machine Learning:** Transformers, PEFT, PyTorch, Llama.cpp 
-* **Tools & Platforms:** HuggingFace, LMStudio, Unsloth, Tunix, Git
+## Currently
 
----
+- Writing a research paper on a new inference technique for NPC dialogue (submitted to FDG 2026)
+- Fine-tuning character models for local/on-device use
+- Building things new systems focused on Phone Hardware
 
-### 🏆 Hackathons & Experience (with my Teammate @chimbiwide)
+## Elsewhere
 
-**Google Tunix Hack | Machine Learning Researcher** 
-* Engineered a custom data pipeline to synthetically generate tens of thousands of reasoning traces for a high-fidelity Chain-of-Thought (CoT) dataset.
-* Post-trained a 1B-parameter Gemma 3 model on TPU infrastructure utilizing SFT and a novel GRPO strategy.
-* Test piloted Google's new Tunix training library, documenting the fine-tuning strategy in a notebook shortlisted as a "high quality submission".
-
-**Google Gemma3n Impact Challenge | AI Developer** ]
-* Fine-tuned a SOTA Gemma 3n mobile model for NPC gaming interaction using Unsloth and LoRA adapters.
-* Quantized models to 4-bit and 8-bit GGUF formats via Llama.cpp to halve memory footprint and enable faster local inference.
-* Built 3 interactive game demos (including a voice-controlled chatbot), driving over 2,600 model downloads on Hugging Face.
-
----
-
-### 🛠️ My Favorite Repos
-
-* **Real Time Conversational AI Pipeline (Python):** Engineered an end-to-end voice pipeline using up to 5 distinct AI models to converse with a 3D game avatar. Achieved 1.2s average response times via multithreading for STT and LLM token generation. Fully controllable via a custom Discord bot.
-
-* **ASCII Voxel Game Renderer (Java):** Built a custom 3D Voxel game renderer without external libraries that renders frames using ASCII characters in the console. Optimized performance using back face culling and LOD techniques.
-
----
-
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/keegan-carey](https://linkedin.com/in/keegan-carey)
-* **Email:** keegancarey12@gmail.com
+- **HuggingFace:** [huggingface.co/KeeganC](https://huggingface.co/KeeganC)
+- **LinkedIn:** [linkedin.com/in/keegancarey](https://linkedin.com/in/keegancarey)
