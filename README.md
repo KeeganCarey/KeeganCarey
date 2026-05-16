@@ -9,7 +9,6 @@ I spend most of my time working at the intersection of **LLM fine-tuning**, **ga
 
 ## Currently
 
-- Writing a research paper on a new inference technique for NPC dialogue (submitted to FDG 2026)
 - Fine-tuning character models for local/on-device use
 - Building things new systems focused on Phone Hardware
 
