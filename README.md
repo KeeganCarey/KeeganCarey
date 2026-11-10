@@ -1,6 +1,6 @@
 # Hey, I'm Keegan 👋
 
-Computer Science & Computer Engineering student at Northeastern University. 
+Computer Engineering & Computer Science student at Northeastern University. 
 I build things with LLMs, focusing on making pipelines that run well on consumer hardware.
 
 ## What I'm Into
